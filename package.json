@@ -1,0 +1,25 @@
+{
+  "name": "api_from_scratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aimeeroxanne/api_from_scratch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aimeeroxanne/api_from_scratch/issues"
+  },
+  "homepage": "https://github.com/aimeeroxanne/api_from_scratch#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "uuid": "^3.2.1"
+  }
+}

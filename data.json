@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "name": "chips",
+    "unit": "bag",
+    "price": 1,
+    "quantity": 4
+  },
+
+  {
+    "id": 2,
+    "name": "carrots",
+    "unit": "sticks",
+    "price": 3,
+    "quantity": 9
+  },
+
+  {
+    "id": 3,
+    "name": "candy",
+    "unit": "pouch",
+    "price": 4,
+    "quantity": 10
+  }
+]
